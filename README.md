@@ -46,8 +46,8 @@ CISC3024-Diffusion-MNIST/
 ### Setup
 ```bash
 # Clone repository
-git clone https://github.com/yourusername/CISC3024-Diffusion-MNIST.git
-cd CISC3024-Diffusion-MNIST
+git clone https://github.com/s1ngs4n/cisc3024-model-project.git
+cd cisc3024-model-project
 
 # Install dependencies
 pip install -r requirements.txt
