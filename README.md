@@ -1,6 +1,6 @@
 # cisc3024-Pattern-Recognition-Project
 # Handwritten Digit Generation with Diffusion Models
-
+### DC229292 CHENXINGCHEN DC328300 LUOYUANG
 [![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)](https://pytorch.org/)
 [![Python](https://img.shields.io/badge/python-3.12+-blue.svg)](https://www.python.org/)
 
